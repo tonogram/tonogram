@@ -1,3 +1,5 @@
 sense appealer
 
-currently working on [nanode](https://nanode.click/) and small personal projects
+- software in rust
+- design in affinity
+- music in bitwig
